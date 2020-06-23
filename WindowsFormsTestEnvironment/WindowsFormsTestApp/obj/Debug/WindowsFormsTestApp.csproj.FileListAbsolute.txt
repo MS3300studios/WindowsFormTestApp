@@ -1,0 +1,10 @@
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\bin\Debug\WindowsFormsTestApp.exe.config
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\bin\Debug\WindowsFormsTestApp.exe
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\bin\Debug\WindowsFormsTestApp.pdb
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\obj\Debug\WindowsFormsTestApp.csprojAssemblyReference.cache
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\obj\Debug\WindowsFormsTestApp.Form1.resources
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\obj\Debug\WindowsFormsTestApp.Properties.Resources.resources
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\obj\Debug\WindowsFormsTestApp.csproj.GenerateResource.cache
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\obj\Debug\WindowsFormsTestApp.csproj.CoreCompileInputs.cache
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\obj\Debug\WindowsFormsTestApp.exe
+D:\VS solutions\WindowsFormTestApp\WindowsFormsTestEnvironment\WindowsFormsTestApp\obj\Debug\WindowsFormsTestApp.pdb
